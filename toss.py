@@ -22,5 +22,4 @@ while True:
     elif user == "e":
         print("Thank you for playing.")
         break
-    else:
-        print("Invalid input")
+
