@@ -10,12 +10,12 @@ while True:
         if coin == "heads":
             print("its heads congratulations")
             score += 1
-            print(score)
+            print("number of times u tossed",score)
             break
         else: 
             print("its tails better luch next time")
             score += 1
-            print(score)
+            print("number of times u tossed",score)
     elif user == "e":
         print("thank you for playing")
         break
